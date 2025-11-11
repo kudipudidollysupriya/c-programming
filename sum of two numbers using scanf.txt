@@ -1,0 +1,24 @@
+
+#include <stdio.h>
+
+int main() 
+{
+   int a,b,c;
+   printf("enter a value::");
+   scanf("%d",&a);
+   printf("enter b value::");
+   scanf("%d",&b);
+   c = a + b;
+   printf("sum = %d",c);
+   return 0;
+}
+ out put
+enter a value::20
+enter b value::30
+sum = 50
+
+=== Code Execution Successful ===
+
+
+
+   
