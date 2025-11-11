@@ -1,0 +1,15 @@
+
+#include <stdio.h>
+
+int main() 
+{
+    printf("Name::K dolly");
+    printf("DOB::18-03-2008");
+    printf("place::kakinada");
+    printf("Father's Name::K satyanarayana");
+    return 0;
+}
+out put
+Name::K dollyDOB::18-03-2008place::kakinadaFather's Name::K satyanarayana
+
+=== Code Execution Successful ===
